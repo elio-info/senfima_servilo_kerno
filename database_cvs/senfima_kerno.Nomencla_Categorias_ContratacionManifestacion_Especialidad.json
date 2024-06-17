@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "666fb44952dfb6fc0cb7eedd"
+  },
+  "nombre_categoria_manifestacion_especialidad": "Contemporanea",
+  "ID_categoria_manifestacion": "666fb3036e7508a9d7cdf6b6",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-06-17T03:58:01.062Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-17T03:58:01.062Z"
+  },
+  "__v": 0
+}]

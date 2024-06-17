@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "666fc45026a0fef2fd88ec45"
+  },
+  "id_TalentoArtistico": "524634",
+  "nombre_TalentoArtistico": "Pedro Ramos",
+  "manifest_esp": "{idManif:'666fb3036e7508a9d7cdf6b6',idEsp:'666fb44952dfb6fc0cb7eedd'}",
+  "persona_TalentoArtistico": true,
+  "contrato_talento": "A",
+  "entidad_contrato_talento": "666fbf8c7ddf8e6a9ad24226",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-06-17T05:06:24.917Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-17T05:06:24.917Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "666fbf8c7ddf8e6a9ad24226"
+  },
+  "entityType": "666a1adcae9360d13df5741b",
+  "name": "La citiera",
+  "nitCode": "",
+  "abbreviation": "EMC Citiera",
+  "resolution": "",
+  "issuedBy": "",
+  "domicilie": "",
+  "reeup": "",
+  "commercialRegister": "",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-06-17T04:46:04.734Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-17T04:46:04.734Z"
+  },
+  "__v": 0
+}]
