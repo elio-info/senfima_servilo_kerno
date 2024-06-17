@@ -22,6 +22,7 @@ import { CulturaModule } from './cultura/cultura.module';
 
 @Module({
   imports: [
+    
     ConfigModule.forRoot({
       isGlobal: true,
     }),
@@ -49,7 +50,7 @@ import { CulturaModule } from './cultura/cultura.module';
     EntityModule,
     BankAccountModule,
     // mio
-    CulturaModule
+    CulturaModule,
   ],
   providers: [
     AllExceptionFilter,

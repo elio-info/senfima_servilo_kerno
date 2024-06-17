@@ -15,7 +15,7 @@ import { MunicipalityModel } from 'src/modules/municipality/infrastructure/munic
 import { PlaceModel } from 'src/modules/place/infrastructure/places.schema';
 
 export class CreateEntityDto {
-  @ApiProperty({ type: 'ObjectID.EntityType' })
+  @ApiProperty({ type: 'ObjectID.EntityType',example:'666a1adcae9360d13df5741b' })
   @IsMongoId({ message: 'Entity Type Id must be valid' })
   @IsRelationShipWith(EntityTypeModel)
   entityType: string;
